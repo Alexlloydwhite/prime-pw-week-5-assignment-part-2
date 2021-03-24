@@ -4,6 +4,10 @@
   text-align: center;
   font-family: monospace;
 }
-p{
+.main{
   background-color: lightgrey;
+  font-family: cursive;
+}
+body{
+  background-image: url(record.png);
 }
