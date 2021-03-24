@@ -7,7 +7,9 @@
 .main{
   background-color: lightgrey;
   font-family: cursive;
+  padding: 1em;
 }
 body{
   background-image: url(record.png);
+  margin: 0;
 }
